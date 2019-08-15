@@ -9,6 +9,7 @@ void print_bits(int num){
 
 	int i;
 
+	int k;
 
 	for(i =sizeof(int)*8 -1 ; i >= 0 ;--i){
 		
